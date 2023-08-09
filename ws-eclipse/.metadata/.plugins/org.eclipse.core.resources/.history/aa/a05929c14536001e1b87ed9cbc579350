@@ -1,0 +1,64 @@
+package curso_java;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class exerEstuturaSequencial {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		//Exercicio Exemplo 
+		/*
+		 
+		double largura = sc.nextDouble();
+		double comprimento = sc.nextDouble();
+		double metroQuadrado = sc.nextDouble();
+		
+		double area = largura * comprimento;
+		double preco = area * metroQuadrado;
+		
+		System.out.printf("AREA = %.2f %n", area);
+		System.out.printf("PRECO = %.2f %n", preco);
+		
+		sc.close();
+		 */
+		
+		//Exercicio 01
+		//Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
+		//mensagem explicativa, conforme exemplos.
+		/*
+		int valor1 = sc.nextInt();
+		int valor2 = sc.nextInt();
+		
+		int soma = valor1 + valor2;
+		
+		System.out.println("SOMA = " + soma);
+		
+		sc.close();
+		
+		*/
+		
+		//Exercicio 02 
+		/*
+		Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro
+		casas decimais conforme exemplos.
+		Fórmula da área: area = π . raio2
+		Considere o valor de π = 3.14159
+		*/
+		
+		double valorA = sc.nextDouble();
+		
+		double pi = 3.14159;
+		
+		double area = pi * (valorA * valorA);
+		
+		System.out.printf("A = %.4f%n", area);
+		
+		sc.close();
+		
+	}
+
+}
