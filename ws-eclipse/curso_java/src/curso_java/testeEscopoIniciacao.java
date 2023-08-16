@@ -2,7 +2,7 @@ package curso_java;
 
 import java.util.Scanner;
 
-public class testeEscopoIniciacao {
+public class TesteEscopoIniciacao {
 
 	public static void main(String[] args) {
 		

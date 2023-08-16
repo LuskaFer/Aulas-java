@@ -2,7 +2,7 @@ package curso_java;
 
 import java.util.Scanner;
 
-public class testeDeFor {
+public class TesteDeFor {
 
 	public static void main(String[] args) {
 

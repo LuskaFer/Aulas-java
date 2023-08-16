@@ -3,7 +3,7 @@ package curso_java;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class testeEntradaDeDados {
+public class TesteEntradaDeDados {
 
 	public static void main(String[] args) {
 

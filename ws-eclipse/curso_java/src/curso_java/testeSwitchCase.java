@@ -2,7 +2,7 @@ package curso_java;
 
 import java.util.Scanner;
 
-public class testeSwitchCase {
+public class TesteSwitchCase {
 
 	public static void main(String[] args) {
 		

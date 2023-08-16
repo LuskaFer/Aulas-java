@@ -2,7 +2,7 @@ package curso_java;
 
 import java.util.Locale;
 
-public class testeSaidaDeDados {
+public class TesteSaidaDeDados {
 
 	public static void main(String[] args) {
 		

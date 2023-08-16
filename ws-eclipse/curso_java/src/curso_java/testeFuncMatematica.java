@@ -1,6 +1,6 @@
 package curso_java;
 
-public class testeFuncMatematica {
+public class TesteFuncMatematica {
 
 	public static void main(String[] args) {
 		

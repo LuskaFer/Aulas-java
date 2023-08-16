@@ -1,6 +1,6 @@
 package curso_java;
 
-public class testeDeProcessamento {
+public class TesteDeProcessamento {
 
 	public static void main(String[] args) {
 		

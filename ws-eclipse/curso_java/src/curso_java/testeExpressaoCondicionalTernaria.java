@@ -1,6 +1,6 @@
 package curso_java;
 
-public class testeExpressaoCondicionalTernaria {
+public class TesteExpressaoCondicionalTernaria {
 
 	public static void main(String[] args) {
 		

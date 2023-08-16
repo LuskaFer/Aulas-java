@@ -2,7 +2,7 @@ package curso_java;
 
 import java.util.Scanner;
 
-public class testeDeWhile {
+public class TesteDeWhile {
 
 	public static void main(String[] args) {
 
